@@ -1,0 +1,18 @@
+<programy ai>
+  <program>
+    <nazwa_programu typ="aplikacja">Chat GPT</nazwa_programu>
+    <tworca kto="firma">Open AI</tworca>
+    <rok_powstania zapis="klasyczny">2022</rok_powstania>
+    <koszt_uzytku cena="w zL">0zł</koszt_uzytku>
+  </program>
+  <program>
+    <nazwa_programu typ="aplikacja">Greg</nazwa_programu>
+    <tworca kto="osoba">Elon Musk</tworca>
+    <rok_powstania zapis="bez dnia">2025</rok_powstania>
+    <koszt_uzytku cena=" w zL">0zł</koszt_uzytku>
+  </program>
+  <nazwa_programu typ="aplikacja">Gemini</nazwa_programu>
+  <tworca kto="osoba">Google</nazwa_programu>
+  <rok_powstania zapis="bez dnia">2025</rok_powstania>
+  <koszt_uzytku cena="w zL">0zL</koszt_uzytku>
+</programy ai>

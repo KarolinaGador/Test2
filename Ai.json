@@ -1,0 +1,20 @@
+[
+      {
+        "nazwa_programu": "Chat GPT",
+        "tworca": ["Open AI", "grupa naukowców UCLA", "Joe Goldberg"],
+        "rok_powstania": 2022,
+        "Czy_darmowy": false
+      },
+      {
+        "nazwa_programu": "Greg",
+        "tworca": ["Elon Musk", "NaukowcyTesla", "Twitter"],
+        "rok_powstania": 2025,
+        "Czy darmowy": false
+      },
+      {
+        "nazwa-programu": "Gemini",
+        "tworca": ["Google", "Dexter Morgan", "Arthur Morgan"],
+        "rok_powstania": 2025,
+        "Czy darmowy": true
+      }
+]
