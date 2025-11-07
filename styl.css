@@ -1,3 +1,13 @@
+.aut{
+    text-align: center;
+    margin-bottom: 1cm;
+    }
+    .lista {
+    border: 5px solid black;
+    font-weight: bold;
+    width: 25%;
+    
+    }
 .home h1 {
     text-align: center;
     color: green
